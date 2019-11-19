@@ -1,0 +1,30 @@
+{
+  "name": "@bizdotcom/eslint-config-bdc",
+  "version": "1.0.0",
+  "description": "eslint config for business.com, businessnewsdaily.com, buyerzone.com and other related projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/businessdotcom/eslint-config-bdc.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "javascript",
+    "code",
+    "style",
+    "linting"
+  ],
+  "author": "BDC Dev Garage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/businessdotcom/eslint-config-bdc/issues"
+  },
+  "homepage": "https://github.com/businessdotcom/eslint-config-bdc#readme",
+  "peerDependencies": {
+      "eslint": ">= 3"
+  }
+}
