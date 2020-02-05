@@ -4,7 +4,7 @@
   "description": "eslint config for business.com, businessnewsdaily.com, buyerzone.com and other related projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publishPublic": "npm publish --access public"
   },
   "repository": {
     "type": "git",
