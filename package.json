@@ -1,6 +1,6 @@
 {
   "name": "@bizdotcom/eslint-config-bdc",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "eslint config for business.com, businessnewsdaily.com, buyerzone.com and other related projects",
   "main": "index.js",
   "scripts": {
