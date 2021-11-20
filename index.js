@@ -19,6 +19,7 @@
 				"tabWidth": 4,
 				"trailingComma": "es5",
 				"useTabs": true,
+				"endOfLine": "auto"
 			}
 		],
 		"import/no-unresolved": [2, {"commonjs": true, "amd": true}],
